@@ -1,6 +1,6 @@
 ```
 Student name: Irvine Minh Duc Tran
-Student number: 30126016
+Student number: 300126016
 Course code: ITI1121
 Lab: Lab02
 Course section: 03
